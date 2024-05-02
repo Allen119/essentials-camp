@@ -1,2 +1,2 @@
 Hello allen.nice to meet you.<br>
-what a day
+what a day it is
